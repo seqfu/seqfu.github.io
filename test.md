@@ -15,8 +15,9 @@ maths
 
 And some fenced code
 
-```javascript
-
-function foo () { foo(); }
-
+```js
+function foo () { 
+  let towel = 42;
+  console.log(towel);
+}
 ```
