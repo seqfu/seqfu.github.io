@@ -21,3 +21,19 @@ function foo () {
   console.log(towel);
 }
 ```
+
+And some custom Javascript
+
+<script async src='assets/js/test_insert.js'></script>
+
+And some other stuff
+
+Same script again
+
+<script async src='assets/js/test_insert.js'></script>
+
+And a different script
+
+<script async src='assets/js/test_insert2.js'></script>
+
+And some more other stuff
